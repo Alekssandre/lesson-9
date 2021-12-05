@@ -17,19 +17,18 @@
 .text-box {
     max-width: 463px;
 }
-h3 {
+.text-box h3 {
     font-size: 32px;
 }
-p {
+.text-box p {
     margin: 30px 0;
 }
-span {
+.text-box span {
     color: #0A22F4;
 }
 .img-box {
     flex-direction: column;
     margin: 90px 0;
-    /* margin: 0 250px; */
 }
 .dot-box {
     position: absolute;
