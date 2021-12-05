@@ -4,3 +4,28 @@
     box-sizing: border-box;
     font-size: 100%;
 }
+/* style reset */
+.container {
+    max-width: 80%;
+    justify-content: space-between;
+    margin: 10% 10%;
+}
+.d-flex {
+    display: flex;
+}
+.text-box {
+    max-width: 463px;
+}
+h3 {
+    font-size: 32px;
+}
+p {
+    margin: 30px 0;
+}
+span {
+    color: #0A22F4;
+}
+.img-box {
+    flex-direction: column;
+    /* margin: 0 250px; */
+}
