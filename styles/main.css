@@ -1,0 +1,70 @@
+.four {
+color: white;
+background-color: blue;
+display: block;
+width: 1920px;
+height: 400px;;
+}
+.four h1 {
+    padding: 60px 200px;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  height: 350px;
+  margin: -100px 100px;
+}
+.flex {
+  position: relative;
+}
+.small-circles {
+  display: flex;
+  position: absolute;
+  right: 10px;
+
+}
+.small-circles span {
+  width: 10px;
+  height: 10px;
+  display: block;
+  margin: -470px 10px;
+  background-color:white;
+  opacity: 0.4;
+  border-radius: 50%;
+}
+.small-circles .circle-item {
+  opacity: 1;
+}
+.glow {
+  position: absolute;
+	width: 300px;
+	left: 130px;
+	height: 80px;
+	border-radius: 15px;
+	background-color: white;
+}
+.frou {
+  position: absolute;
+	width: 300px;
+	left: 530px;
+	height: 80px;
+	border-radius: 15px;
+	background-color: white;
+  margin-top: 50px;
+}
+.bloud {
+  position: absolute;
+	width: 300px;
+	left: 930px;
+	height: 80px;
+	border-radius: 15px;
+	background-color: white;
+}
+.grid {
+  position: absolute;
+	width: 300px;
+	left: 1280px;
+	height: 80px;
+	border-radius: 15px;
+	background-color: white;
+}
