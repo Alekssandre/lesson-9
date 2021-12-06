@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 100%;
+}
+.container{
+ display: flex;
+ align-items: flex-start;
+}
+.phone{
+ align-items: flex-start;
+}
+.email{
+ align-items: flex-start;
+}
+.text{
+ text-align: left;
+}
+.map{
+ display: flex;
+ border-radius: 100%;
+}
+.form-field {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+ 
