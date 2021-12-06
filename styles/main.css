@@ -1,19 +1,19 @@
- HEAD
 .four {
 color: white;
 background-color: blue;
 display: block;
 width: 1920px;
-height: 400px;;
+height: 350px;;
 }
 .four h1 {
     padding: 60px 200px;
 }
-.container{
+.conteiner{
   display: flex;
   flex-direction: row;
-  height: 350px;
-  margin: -100px 100px;
+  height: 400px;
+  margin-top: -190px;
+  padding: 30px;;
 }
 .flex {
   position: relative;
@@ -39,35 +39,40 @@ height: 400px;;
 .glow {
   position: absolute;
 	width: 300px;
-	left: 130px;
+	left: 1200px;
 	height: 80px;
 	border-radius: 15px;
+  margin-top: -130px;
+  left: 840px;
 	background-color: white;
 }
 .frou {
   position: absolute;
 	width: 300px;
-	left: 530px;
+	left: 450px;
 	height: 80px;
 	border-radius: 15px;
 	background-color: white;
-  margin-top: 50px;
+  margin-top: -70px;
 }
 .bloud {
   position: absolute;
 	width: 300px;
-	left: 930px;
+	left: 50px;
 	height: 80px;
+  margin-top: -130px;
 	border-radius: 15px;
 	background-color: white;
 }
 .grid {
   position: absolute;
 	width: 300px;
-	left: 1280px;
+	left: 1180px;
 	height: 80px;
+  margin-top: -130px;
 	border-radius: 15px;
-	background-color: white;
+	background-color: white
+}
 * {
     margin: 0;
     padding: 0;
