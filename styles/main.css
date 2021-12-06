@@ -1,8 +1,6 @@
 .four {
-color: white;
-background-color: blue;
-display: block;
-width: 1920px;
+color: #ffffff;
+background-color:#0A22F4;
 height: 350px;;
 }
 .four h1 {
@@ -118,3 +116,4 @@ height: 350px;;
     height: 10px;
     border-radius: 50%;
     opacity: 30%;
+}
